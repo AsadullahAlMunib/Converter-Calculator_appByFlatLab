@@ -1,5 +1,40 @@
 # Converter Calculator
 
+A powerful and simple unit converter calculator built with Flutter.
+
+---
+
+## 📱 Get the App
+
+Download and use the app from the options below:
+
+### 📲 Scan to Download
+
+<table>
+<tr>
+<td align="center">
+<b>Android App</b><br>
+<img src="getApp/Converter-Calculator_android-arm_1.0.0.jpg" width="150"><br><br>
+<a href="getApp/Converter-Calculator_android-arm_1.0.0.apk">⬇️ Download APK (Android-ARM)</a>
+</td>
+
+<td align="center">
+<b>iOS / Web App</b><br>
+<img src="getApp/Converter-Calculator_web-release_1.0.0.jpg" width="150"><br><br>
+<a href="getApp/Converter-Calculator_web-release_1.0.0.zip">🌐 Get zip file of Web App</a>
+</td>
+</tr>
+</table>
+
+---
+
+### 🌐 Web Version
+
+👉 [Open Web App](https://preview.flutlab.io/md_asadullah_al_munib/converter-calculator/)
+
+---
+
+
 A new Flutter project created with FlutLab - https://flutlab.io
 
 ## Getting Started
