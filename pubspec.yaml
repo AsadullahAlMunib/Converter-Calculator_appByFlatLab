@@ -1,0 +1,18 @@
+name: universal_converter
+description: A high-end unit converter and calculator.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  url_launcher: ^6.1.0
+  cupertino_icons: ^1.0.5
+  math_expressions: ^2.4.0
+
+flutter:
+  uses-material-design: true
